@@ -1,0 +1,1482 @@
+{
+  "results": [
+    {
+      "id": "8c5f643d2d57f18164f4a495f0a07a60255e7ee5",
+      "corpusId": 283613298,
+      "title": {
+        "text": "David VS Goliath in the food delivery industry: the case of Jafood's strategic path amid multinationals' competition",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 9,
+            "end": 16
+          }
+        ]
+      },
+      "slug": "David-VS-Goliath-in-the-food-delivery-industry:-the-Greco",
+      "paperAbstract": {
+        "text": "\n \n The food delivery (FD) sector has undergone a radical transformation over the past decade, driven by technological advancements that have enabled the rise of startups and multinational corporations. This study aims to investigate how local startups strategically compete against global food delivery giants by reconstructing the strategic evolution of a startup operating in the Campania region (Italy), which has been in direct competition with multinational firms for several years.\n \n \n \n This research uses a qualitative methodology through a longitudinal single-case study of Jafood, a Startup and academic spinoff of FD. This study uses an action research approach with an interpretive perspective, analysing nine strategic phases over a seven-year period. Empirical data were collected through real-time operations alongside multinational competitors and complemented by desk research on platforms, industry reports and corporate communications in the FD market.\n \n \n \n The findings reveal that the case study developed a hybrid strategic model combining differentiation, mimicking and effectuation. Startups can achieve competitive advantages over multinationals by leveraging strategic agility, local embeddedness and institutional support while adopting selected corporate practices to enhance credibility and prepare for potential exit opportunities.\n \n \n \n Although based on a single case, this study proposes a framework that may apply to other startups operating in highly competitive environments. Future research could expand the sample and adopt longitudinal designs to validate the model in other national or sectoral contexts.\n \n \n \n This study's main contribution lies in introducing a contextual and multi-theoretical interpretation of startup strategy within the FD sector, offering practical insights for entrepreneurs and policymakers within innovation ecosystems.\n",
+        "fragments": []
+      },
+      "paperAbstractTruncated": "\n \n The food delivery (FD) sector has undergone a radical transformation over the past decade, driven by technological a...",
+      "authors": [
+        [
+          {
+            "name": "Fabio Greco",
+            "ids": [
+              "2283247921"
+            ],
+            "slug": "Fabio-Greco",
+            "structuredName": {
+              "firstName": "Fabio",
+              "middleNames": [],
+              "lastName": "Greco"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Fabio Greco",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Fabio",
+          "middleNames": [],
+          "lastName": "Greco"
+        }
+      ],
+      "year": {
+        "text": "2025",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Journal of Management History",
+        "fragments": []
+      },
+      "venueId": "47abd5be-e462-44b7-89aa-d9617d142150",
+      "citationContexts": [],
+      "citationStats": {
+        "citedByBuckets": [
+          {
+            "startKey": 2026,
+            "endKey": 2026,
+            "count": 1
+          }
+        ],
+        "keyCitedByBuckets": [],
+        "numCitations": 1,
+        "estNumCitations": 13.666666666666668,
+        "numReferences": 79,
+        "numKeyCitations": 0,
+        "numKeyReferences": 0,
+        "numViewableReferences": 79,
+        "keyCitationRate": 0.0,
+        "firstCitationVelocityYear": 2025,
+        "lastCitationVelocityYear": 2025
+      },
+      "earliestAcquisitionsDate": 1765123324.410278,
+      "journal": {
+        "name": "Journal of Management History"
+      },
+      "doiInfo": {
+        "doi": "10.1108/jmh-04-2025-0071",
+        "doiUrl": "https://doi.org/10.1108/jmh-04-2025-0071"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.1108/jmh-04-2025-0071",
+          "linkType": "doi"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.1108/jmh-04-2025-0071",
+        "linkType": "doi"
+      },
+      "alternatePaperLinks": [],
+      "entities": [],
+      "entityRelations": [],
+      "faqs": [],
+      "scorecardStats": [
+        {
+          "typeKey": "cited_by",
+          "citationCount": 1,
+          "keyCitationCount": 0,
+          "score": 10.0
+        }
+      ],
+      "fieldsOfStudy": [
+        "Business",
+        "Economics"
+      ],
+      "pubDate": "2025-12-08",
+      "badges": [],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "31effd1fd7ed04da35f1ec0b5e3e5893f11a0899",
+      "corpusId": 282139623,
+      "title": {
+        "text": "David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-A-comparative-study-of-LLMs-for-Bauerfeind-Salarpour",
+      "paperAbstract": {
+        "text": "Scenario simulation is central to testing autonomous driving systems. Scenic, a domain-specific language (DSL) for CARLA, enables precise and reproducible scenarios, but NL-to-Scenic generation with large language models (LLMs) suffers from scarce data, limited reproducibility, and inconsistent metrics. We introduce NL2Scenic, an open dataset and framework with 146 NL/Scenic pairs, a difficulty-stratified 30-case test split, an Example Retriever, and 14 prompting variants (ZS, FS, CoT, SP, MoT). We evaluate 13 models: four proprietary (GPT-4o, GPT-5, Claude-Sonnet-4, Gemini-2.5-pro) and nine open-source code models (Qwen2.5Coder 0.5B-32B; CodeLlama 7B/13B/34B), using text metrics (BLEU, ChrF, EDIT-SIM, CrystalBLEU) and execution metrics (compilation and generation), and compare them with an expert study (n=11). EDIT-SIM correlates best with human judgments; we also propose EDIT-COMP (F1 of EDIT-SIM and compilation) as a robust dataset-level proxy that improves ranking fidelity. GPT-4o performs best overall, while Qwen2.5Coder-14B reaches about 88 percent of its expert score on local hardware. Retrieval-augmented prompting, Few-Shot with Example Retriever (FSER), consistently boosts smaller models, and scaling shows diminishing returns beyond mid-size, with Qwen2.5Coder outperforming CodeLlama at comparable scales. NL2Scenic and EDIT-COMP offer a standardized, reproducible basis for evaluating Scenic code generation and indicate that mid-size open-source models are practical, cost-effective options for autonomous-driving scenario programming.",
+        "fragments": []
+      },
+      "paperAbstractTruncated": "Scenario simulation is central to testing autonomous driving systems. Scenic, a domain-specific language (DSL) for CARLA...",
+      "tldr": {
+        "text": "NL2Scenic and EDIT-COMP offer a standardized, reproducible basis for evaluating Scenic code generation and indicate that mid-size open-source models are practical, cost-effective options for autonomous-driving scenario programming.",
+        "abstractSimilarityScore": 26
+      },
+      "authors": [
+        [
+          {
+            "name": "P. Bauerfeind",
+            "ids": [
+              "2266260925"
+            ],
+            "slug": "P.-Bauerfeind",
+            "structuredName": {
+              "firstName": "P.",
+              "middleNames": [],
+              "lastName": "Bauerfeind"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "P. Bauerfeind",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Amir Salarpour",
+            "ids": [
+              "2333593532"
+            ],
+            "slug": "Amir-Salarpour",
+            "structuredName": {
+              "firstName": "Amir",
+              "middleNames": [],
+              "lastName": "Salarpour"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Amir Salarpour",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "David Fernandez",
+            "ids": [
+              "2353277530"
+            ],
+            "slug": "David-Fernandez",
+            "structuredName": {
+              "firstName": "David",
+              "middleNames": [],
+              "lastName": "Fernandez"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "David Fernandez",
+            "fragments": [
+              {
+                "start": 0,
+                "end": 5
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pedram MohajerAnsari",
+            "ids": [
+              "2249110741"
+            ],
+            "slug": "Pedram-MohajerAnsari",
+            "structuredName": {
+              "firstName": "Pedram",
+              "middleNames": [],
+              "lastName": "MohajerAnsari"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Pedram MohajerAnsari",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "J. Reschke",
+            "ids": [
+              "2285452539"
+            ],
+            "slug": "J.-Reschke",
+            "structuredName": {
+              "firstName": "Johannes",
+              "middleNames": [],
+              "lastName": "Reschke"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "J. Reschke",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Mert D. Pes'e",
+            "ids": [
+              "2331321126"
+            ],
+            "slug": "Mert-D.-Pes'e",
+            "structuredName": {
+              "firstName": "Mert",
+              "middleNames": [
+                "D."
+              ],
+              "lastName": "Pes'e"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Mert D. Pes'e",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "P.",
+          "middleNames": [],
+          "lastName": "Bauerfeind"
+        },
+        {
+          "firstName": "Amir",
+          "middleNames": [],
+          "lastName": "Salarpour"
+        },
+        {
+          "firstName": "David",
+          "middleNames": [],
+          "lastName": "Fernandez"
+        },
+        {
+          "firstName": "Pedram",
+          "middleNames": [],
+          "lastName": "MohajerAnsari"
+        },
+        {
+          "firstName": "Johannes",
+          "middleNames": [],
+          "lastName": "Reschke"
+        },
+        {
+          "firstName": "Mert",
+          "middleNames": [
+            "D."
+          ],
+          "lastName": "Pes'e"
+        }
+      ],
+      "year": {
+        "text": "2025",
+        "fragments": []
+      },
+      "venue": {
+        "text": "arXiv.org",
+        "fragments": []
+      },
+      "venueId": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+      "citationContexts": [],
+      "citationStats": {
+        "citedByBuckets": [
+          {
+            "startKey": 2026,
+            "endKey": 2026,
+            "count": 1
+          }
+        ],
+        "keyCitedByBuckets": [],
+        "numCitations": 1,
+        "estNumCitations": 0.0,
+        "numReferences": 59,
+        "numKeyCitations": 0,
+        "numKeyReferences": 8,
+        "numViewableReferences": 59,
+        "keyCitationRate": 0.0,
+        "firstCitationVelocityYear": 2025,
+        "lastCitationVelocityYear": 2025
+      },
+      "earliestAcquisitionsDate": 1760683459.526,
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2510.14115"
+      },
+      "doiInfo": {
+        "doi": "10.48550/arXiv.2510.14115",
+        "doiUrl": "https://doi.org/10.48550/arXiv.2510.14115"
+      },
+      "links": [
+        {
+          "url": "https://arxiv.org/pdf/2510.14115.pdf",
+          "linkType": "arxiv"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://arxiv.org/pdf/2510.14115.pdf",
+        "linkType": "arxiv"
+      },
+      "alternatePaperLinks": [],
+      "entities": [],
+      "entityRelations": [],
+      "faqs": [],
+      "scorecardStats": [
+        {
+          "typeKey": "cited_by",
+          "citationCount": 1,
+          "keyCitationCount": 0,
+          "score": 10.0
+        }
+      ],
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "pubDate": "2025-10-15",
+      "pubUpdateDate": "2025-10-15",
+      "badges": [
+        {
+          "id": "OPEN_ACCESS"
+        }
+      ],
+      "isPdfVisible": true,
+      "cues": {}
+    },
+    {
+      "id": "d64fbede4eb81ca44cccd1e29a962da15c30f024",
+      "corpusId": 261575679,
+      "title": {
+        "text": "David vs Goliath: The challenges for plant-based meat companies competing with animal-based meat producers",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 9,
+            "end": 16
+          }
+        ]
+      },
+      "slug": "David-vs-Goliath:-The-challenges-for-plant-based-Reis-Villar",
+      "paperAbstract": {
+        "text": "",
+        "fragments": []
+      },
+      "paperAbstractTruncated": "",
+      "authors": [
+        [
+          {
+            "name": "Germano Glufke Reis",
+            "ids": [
+              "2181486550"
+            ],
+            "slug": "Germano-Glufke-Reis",
+            "structuredName": {
+              "firstName": "Germano",
+              "middleNames": [],
+              "lastName": "Glufke Reis"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Germano Glufke Reis",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Eduardo Guedes Villar",
+            "ids": [
+              "2072260887"
+            ],
+            "slug": "Eduardo-Guedes-Villar",
+            "structuredName": {
+              "firstName": "Eduardo",
+              "middleNames": [
+                "Guedes"
+              ],
+              "lastName": "Villar"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Eduardo Guedes Villar",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "T. Ryyn\u00e4nen",
+            "ids": [
+              "41033660"
+            ],
+            "slug": "T.-Ryyn\u00e4nen",
+            "structuredName": {
+              "firstName": "Toni",
+              "middleNames": [],
+              "lastName": "Ryyn\u00e4nen"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "T. Ryyn\u00e4nen",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Vin\u00edcius Pican\u00e7o Rodrigues",
+            "ids": [
+              "1749200022"
+            ],
+            "slug": "Vin\u00edcius-Pican\u00e7o-Rodrigues",
+            "structuredName": {
+              "firstName": "Vin\u00edcius",
+              "middleNames": [],
+              "lastName": "Pican\u00e7o Rodrigues"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Vin\u00edcius Pican\u00e7o Rodrigues",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Germano",
+          "middleNames": [],
+          "lastName": "Glufke Reis"
+        },
+        {
+          "firstName": "Eduardo",
+          "middleNames": [
+            "Guedes"
+          ],
+          "lastName": "Villar"
+        },
+        {
+          "firstName": "Toni",
+          "middleNames": [],
+          "lastName": "Ryyn\u00e4nen"
+        },
+        {
+          "firstName": "Vin\u00edcius",
+          "middleNames": [],
+          "lastName": "Pican\u00e7o Rodrigues"
+        }
+      ],
+      "year": {
+        "text": "2023",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Journal of Cleaner Production",
+        "fragments": []
+      },
+      "venueId": "95308966-10a0-4b50-b00f-f130a37f7d3c",
+      "citationContexts": [],
+      "citationStats": {
+        "citedByBuckets": [
+          {
+            "startKey": 2024,
+            "endKey": 2024,
+            "count": 2
+          },
+          {
+            "startKey": 2025,
+            "endKey": 2025,
+            "count": 9
+          },
+          {
+            "startKey": 2026,
+            "endKey": 2026,
+            "count": 2
+          }
+        ],
+        "keyCitedByBuckets": [],
+        "numCitations": 14,
+        "estNumCitations": 212.64857310090613,
+        "numReferences": 55,
+        "numKeyCitations": 1,
+        "numKeyReferences": 0,
+        "numViewableReferences": 55,
+        "keyCitationRate": 0.07142857142857142,
+        "citationVelocity": 3.6666666666666665,
+        "firstCitationVelocityYear": 2023,
+        "lastCitationVelocityYear": 2025
+      },
+      "earliestAcquisitionsDate": 1694099743.558472,
+      "journal": {
+        "name": "Journal of Cleaner Production"
+      },
+      "doiInfo": {
+        "doi": "10.1016/j.jclepro.2023.138705",
+        "doiUrl": "https://doi.org/10.1016/j.jclepro.2023.138705"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.1016/j.jclepro.2023.138705",
+          "linkType": "doi"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.1016/j.jclepro.2023.138705",
+        "linkType": "doi"
+      },
+      "alternatePaperLinks": [],
+      "entities": [],
+      "entityRelations": [],
+      "faqs": [],
+      "scorecardStats": [
+        {
+          "typeKey": "cited_by",
+          "citationCount": 14,
+          "keyCitationCount": 1,
+          "score": 10.0
+        }
+      ],
+      "fieldsOfStudy": [
+        "Agricultural and Food Sciences",
+        "Business"
+      ],
+      "openAccessInfo": {
+        "license": "CCBY",
+        "status": "HYBRID",
+        "location": {
+          "url": "https://doi.org/10.1016/j.jclepro.2023.138705",
+          "isPdf": false
+        }
+      },
+      "pubDate": "2023-09-01",
+      "badges": [],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "1f5b99e1e9eba7c6f15c5601e0679fbec8424f8a",
+      "corpusId": 272742848,
+      "title": {
+        "text": "David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-comparing-conventional-machine-a-Kieser-Tschisgale",
+      "paperAbstract": {
+        "text": "Large language models have been shown to excel in many different tasks across disciplines and research sites. They provide novel opportunities to enhance educational research and instruction in different ways such as assessment. However, these methods have also been shown to have fundamental limitations. These relate, among others, to hallucinating knowledge, explainability of model decisions, and resource expenditure. As such, more conventional machine learning algorithms might be more convenient for specific research problems because they allow researchers more control over their research. Yet, the circumstances in which either conventional machine learning or large language models are preferable choices are not well understood. This study seeks to answer the question to what extent either conventional machine learning algorithms or a recently advanced large language model performs better in assessing students' concept use in a physics problem-solving task. We found that conventional machine learning algorithms in combination outperformed the large language model. Model decisions were then analyzed via closer examination of the models' classifications. We conclude that in specific contexts, conventional machine learning can supplement large language models, especially when labeled data is available.",
+        "fragments": []
+      },
+      "paperAbstractTruncated": "Large language models have been shown to excel in many different tasks across disciplines and research sites. They provi...",
+      "tldr": {
+        "text": "It is found that conventional machine learning algorithms in combination outperformed the large language model and that in specific contexts, conventional machine learning can supplement large language models, especially when labeled data is available.",
+        "abstractSimilarityScore": 3
+      },
+      "authors": [
+        [
+          {
+            "name": "Fabian Kieser",
+            "ids": [
+              "2225233892"
+            ],
+            "slug": "Fabian-Kieser",
+            "structuredName": {
+              "firstName": "Fabian",
+              "middleNames": [],
+              "lastName": "Kieser"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Fabian Kieser",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Paul Tschisgale",
+            "ids": [
+              "2138999048"
+            ],
+            "slug": "Paul-Tschisgale",
+            "structuredName": {
+              "firstName": "Paul",
+              "middleNames": [],
+              "lastName": "Tschisgale"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Paul Tschisgale",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Fabian",
+          "middleNames": [],
+          "lastName": "Kieser"
+        },
+        {
+          "firstName": "Paul",
+          "middleNames": [],
+          "lastName": "Tschisgale"
+        }
+      ],
+      "year": {
+        "text": "2024",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Frontiers Artif. Intell.",
+        "fragments": []
+      },
+      "venueId": "",
+      "citationContexts": [],
+      "citationStats": {
+        "numCitations": 7
+      },
+      "journal": {
+        "name": "Frontiers in Artificial Intelligence",
+        "volume": "7"
+      },
+      "doiInfo": {
+        "doi": "10.3389/frai.2024.1408817",
+        "doiUrl": "https://doi.org/10.3389/frai.2024.1408817"
+      },
+      "links": [
+        {
+          "url": "https://pdfs.semanticscholar.org/a110/d0b2a4590514d51c63af121311bdae56a077.pdf",
+          "linkType": "s2"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://pdfs.semanticscholar.org/a110/d0b2a4590514d51c63af121311bdae56a077.pdf",
+        "linkType": "s2"
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science",
+        "Education"
+      ],
+      "openAccessInfo": {
+        "license": "CCBY",
+        "status": "GOLD",
+        "location": {
+          "url": "https://doi.org/10.3389/frai.2024.1408817",
+          "isPdf": false
+        }
+      },
+      "pubDate": "2024-09-18",
+      "badges": [
+        {
+          "id": "OPEN_ACCESS"
+        }
+      ],
+      "isPdfVisible": true,
+      "cues": {}
+    },
+    {
+      "id": "1504d3c080c172cc1c62b4f40fc5ac70a53e93fe",
+      "corpusId": 145828393,
+      "title": {
+        "text": "David vs. Goliath: The Structure, Function, and Clinical Prospects of Antibody Fragments",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-The-Structure,-Function,-and-of-Bates-Power",
+      "paperAbstract": {
+        "text": "Since the licensing of the first monoclonal antibody therapy in 1986, monoclonal antibodies have become the largest class of biopharmaceuticals with over 80 antibodies currently approved for a variety of disease indications. The development of smaller, antigen binding antibody fragments, derived from conventional antibodies or produced recombinantly, has been growing at a fast pace. Antibody fragments can be used on their own or linked to other molecules to generate numerous possibilities for bispecific, multi-specific, multimeric, or multifunctional molecules, and to achieve a variety of biological effects. They offer several advantages over full-length monoclonal antibodies, particularly a lower cost of goods, and because of their small size they can penetrate tissues, access challenging epitopes, and have potentially reduced immunogenicity. In this review, we will discuss the structure, production, and mechanism of action of EMA/FDA-approved fragments and of those in clinical and pre-clinical development. We will also discuss current topics of interest surrounding the potential use of antibody fragments for intracellular targeting and blood\u2013brain barrier (BBB) penetration.",
+        "fragments": []
+      },
+      "tldr": {
+        "text": "The structure, production, and mechanism of action of EMA/FDA-approved fragments and of those in clinical and pre-clinical development are discussed and current topics of interest surrounding the potential use of antibody fragments for intracellular targeting and blood\u2013brain barrier penetration are discussed.",
+        "abstractSimilarityScore": 42
+      },
+      "authors": [
+        [
+          {
+            "name": "Adam K. Bates",
+            "ids": [
+              "1742043716"
+            ],
+            "slug": "Adam-K.-Bates",
+            "structuredName": {
+              "firstName": "Adam",
+              "middleNames": [
+                "K."
+              ],
+              "lastName": "Bates"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Adam K. Bates",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "C. Power",
+            "ids": [
+              "143843672"
+            ],
+            "slug": "C.-Power",
+            "structuredName": {
+              "firstName": "Christopher",
+              "middleNames": [],
+              "lastName": "Power"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "C. Power",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Adam",
+          "middleNames": [
+            "K."
+          ],
+          "lastName": "Bates"
+        },
+        {
+          "firstName": "Christopher",
+          "middleNames": [],
+          "lastName": "Power"
+        }
+      ],
+      "year": {
+        "text": "2019",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Antibodies",
+        "fragments": []
+      },
+      "venueId": "52a58a00-7930-4c4b-aeab-f89cea8125a1",
+      "citationStats": {
+        "numCitations": 185,
+        "citationVelocity": 28.666666666666668
+      },
+      "journal": {
+        "name": "Antibodies",
+        "volume": "8"
+      },
+      "doiInfo": {
+        "doi": "10.3390/antib8020028",
+        "doiUrl": "https://doi.org/10.3390/antib8020028"
+      },
+      "links": [
+        {
+          "url": "https://pdfs.semanticscholar.org/1504/d3c080c172cc1c62b4f40fc5ac70a53e93fe.pdf",
+          "linkType": "s2"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://pdfs.semanticscholar.org/1504/d3c080c172cc1c62b4f40fc5ac70a53e93fe.pdf",
+        "linkType": "s2"
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "openAccessInfo": {
+        "license": "CCBY",
+        "status": "GOLD",
+        "location": {
+          "url": "https://www.mdpi.com/2073-4468/8/2/28/pdf?version=1554810512",
+          "isPdf": true
+        }
+      },
+      "pubDate": "2019-04-09",
+      "badges": [
+        {
+          "id": "OPEN_ACCESS"
+        }
+      ],
+      "isPdfVisible": true,
+      "cues": {}
+    },
+    {
+      "id": "d1d982d03479d6672b8262cef52ff2a7c6dae6e2",
+      "corpusId": 277397795,
+      "title": {
+        "text": "David vs. Goliath: Defeating Russian Autocracy",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-Defeating-Russian-Autocracy-Plokhy",
+      "paperAbstract": {
+        "text": "Abstract:The biblical story of David and Goliath is used here as metaphor to discuss one of the key aspects of the ongoing Russo-Ukrainian War, the clash between democracy and autocracy.",
+        "fragments": [
+          {
+            "start": 31,
+            "end": 36
+          },
+          {
+            "start": 41,
+            "end": 48
+          }
+        ]
+      },
+      "authors": [
+        [
+          {
+            "name": "S. Plokhy",
+            "ids": [
+              "71208871"
+            ],
+            "slug": "S.-Plokhy",
+            "structuredName": {
+              "firstName": "Serhii",
+              "middleNames": [
+                "M."
+              ],
+              "lastName": "Plokhy"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "S. Plokhy",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Serhii",
+          "middleNames": [
+            "M."
+          ],
+          "lastName": "Plokhy"
+        }
+      ],
+      "year": {
+        "text": "2025",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Journal of Democracy",
+        "fragments": []
+      },
+      "venueId": "3ca7e7c1-b44d-48cb-bda8-e61621f694a0",
+      "citationStats": {
+        "numCitations": 0
+      },
+      "journal": {
+        "name": "Journal of Democracy",
+        "volume": "36",
+        "pages": "23 - 37"
+      },
+      "doiInfo": {
+        "doi": "10.1353/jod.2025.a954559",
+        "doiUrl": "https://doi.org/10.1353/jod.2025.a954559"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.1353/jod.2025.a954559",
+          "linkType": "doi"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.1353/jod.2025.a954559",
+        "linkType": "doi"
+      },
+      "fieldsOfStudy": [
+        "Political Science",
+        "History"
+      ],
+      "openAccessInfo": {
+        "status": "CLOSED"
+      },
+      "pubDate": "2025-04-01",
+      "badges": [],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "d7884474115b9333b83c987ced4a87bfd0c0edcd",
+      "corpusId": 268893812,
+      "title": {
+        "text": "David vs. Goliath: large foundation models are not outperforming small models in multi-view mammogram breast cancer prediction",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-large-foundation-models-are-not-Chen-Hu",
+      "paperAbstract": {
+        "text": "Recent Foundation Models have begun to yield remarkable successes across various downstream medical imaging applications...",
+        "fragments": []
+      },
+      "tldr": {
+        "text": "The results suggest that while foundation models possess considerable potential, their efficacy in medium-sized datasets and in transitioning from single-view to multi-view image analysis can be challenging.",
+        "abstractSimilarityScore": 1
+      },
+      "authors": [
+        [
+          {
+            "name": "Xuxin Chen",
+            "ids": [
+              "48282720"
+            ],
+            "slug": "Xuxin-Chen",
+            "structuredName": {
+              "firstName": "Xuxin",
+              "middleNames": [],
+              "lastName": "Chen"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Xuxin Chen",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Mingzhe Hu",
+            "ids": [
+              "152300562"
+            ],
+            "slug": "Mingzhe-Hu",
+            "structuredName": {
+              "firstName": "Mingzhe",
+              "middleNames": [],
+              "lastName": "Hu"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Mingzhe Hu",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Xuxin",
+          "middleNames": [],
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Mingzhe",
+          "middleNames": [],
+          "lastName": "Hu"
+        }
+      ],
+      "year": {
+        "text": "2024",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Medical Imaging",
+        "fragments": []
+      },
+      "venueId": "",
+      "citationStats": {
+        "numCitations": 3
+      },
+      "journal": {
+        "volume": "12927",
+        "pages": "129270X - 129270X-8"
+      },
+      "doiInfo": {
+        "doi": "10.1117/12.3007054",
+        "doiUrl": "https://doi.org/10.1117/12.3007054"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.1117/12.3007054",
+          "linkType": "publisher",
+          "publisherName": "SPIE"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.1117/12.3007054",
+        "linkType": "publisher",
+        "publisherName": "SPIE"
+      },
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "openAccessInfo": {
+        "status": "CLOSED"
+      },
+      "pubDate": "2024-04-03",
+      "publisher": {
+        "name": "SPIE"
+      },
+      "badges": [],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "09947818fa6d63ca1bcf9707b0c52f7c3d62d2a2",
+      "corpusId": 274565282,
+      "title": {
+        "text": "The \u201cDavid Vs Goliath\u201d Study: Application of Large Language Models (LLM) for Automatic Medical Information Retrieval from Multiple Data Sources to Accelerate Clinical and Translational Research in Hematology",
+        "fragments": [
+          {
+            "start": 5,
+            "end": 10
+          },
+          {
+            "start": 11,
+            "end": 13
+          },
+          {
+            "start": 14,
+            "end": 21
+          }
+        ]
+      },
+      "slug": "The-David-Vs-Goliath-Study:-Application-of-Large-Delleani-D'amico",
+      "paperAbstract": {
+        "text": "Background. The innovation process in hematology requires access to a large amount of healthcare data...",
+        "fragments": []
+      },
+      "tldr": {
+        "text": "The proposed ARISTOTELES solution allows automatic information retrieval, extraction and structuring of complex multimodal healthcare data and results in increasing access to healthcare data and reducing human effort required for data collection tasks.",
+        "abstractSimilarityScore": 3
+      },
+      "authors": [
+        [
+          {
+            "name": "Mattia Delleani",
+            "ids": [
+              "2306575651"
+            ],
+            "slug": "Mattia-Delleani",
+            "structuredName": {
+              "firstName": "Mattia",
+              "middleNames": [],
+              "lastName": "Delleani"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Mattia Delleani",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "S. D'amico",
+            "ids": [
+              "2066037960"
+            ],
+            "slug": "S.-D'amico",
+            "structuredName": {
+              "firstName": "Saverio",
+              "middleNames": [],
+              "lastName": "D'amico"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "S. D'amico",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Mattia",
+          "middleNames": [],
+          "lastName": "Delleani"
+        },
+        {
+          "firstName": "Saverio",
+          "middleNames": [],
+          "lastName": "D'amico"
+        }
+      ],
+      "year": {
+        "text": "2024",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Blood",
+        "fragments": []
+      },
+      "venueId": "9b6db04a-2990-4cf9-a14c-01d47636ee53",
+      "citationStats": {
+        "numCitations": 2
+      },
+      "journal": {
+        "name": "Blood"
+      },
+      "doiInfo": {
+        "doi": "10.1182/blood-2024-205621",
+        "doiUrl": "https://doi.org/10.1182/blood-2024-205621"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.1182/blood-2024-205621",
+          "linkType": "doi"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.1182/blood-2024-205621",
+        "linkType": "doi"
+      },
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "pubDate": "2024-11-05",
+      "badges": [],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "3258975902bd0d572035269c9b51c6f4b532a5da",
+      "corpusId": 282895546,
+      "title": {
+        "text": "David vs. Goliath: Cost-Efficient Financial QA via Cascaded Multi-Agent Reasoning",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-Cost-Efficient-Financial-QA-via-Liu-Liu",
+      "paperAbstract": {
+        "text": ",",
+        "fragments": []
+      },
+      "authors": [
+        [
+          {
+            "name": "Chenghao Liu",
+            "ids": [
+              "2317182267"
+            ],
+            "slug": "Chenghao-Liu",
+            "structuredName": {
+              "firstName": "Chenghao",
+              "middleNames": [],
+              "lastName": "Liu"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Chenghao Liu",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Qian Liu",
+            "ids": [
+              "2307418228"
+            ],
+            "slug": "Qian-Liu",
+            "structuredName": {
+              "firstName": "Qian",
+              "middleNames": [],
+              "lastName": "Liu"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Qian Liu",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Chenghao",
+          "middleNames": [],
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Qian",
+          "middleNames": [],
+          "lastName": "Liu"
+        }
+      ],
+      "year": {
+        "text": "2025",
+        "fragments": []
+      },
+      "venue": {
+        "text": "Conference on Empirical Methods in Natural Language Processing",
+        "fragments": []
+      },
+      "venueId": "41bf9ed3-85b3-4c90-b015-150e31690253",
+      "citationStats": {
+        "numCitations": 0
+      },
+      "journal": {
+        "pages": "4212-4229"
+      },
+      "doiInfo": {
+        "doi": "10.18653/v1/2025.findings-emnlp.225",
+        "doiUrl": "https://doi.org/10.18653/v1%2F2025.findings-emnlp.225"
+      },
+      "links": [
+        {
+          "url": "https://doi.org/10.18653/v1%2F2025.findings-emnlp.225",
+          "linkType": "doi"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://doi.org/10.18653/v1%2F2025.findings-emnlp.225",
+        "linkType": "doi"
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Business",
+        "Economics"
+      ],
+      "badges": [
+        {
+          "id": "OPEN_ACCESS"
+        }
+      ],
+      "isPdfVisible": false,
+      "cues": {}
+    },
+    {
+      "id": "8c65fd535feda9073dc546df427f41e4f3224a3b",
+      "corpusId": 283557156,
+      "title": {
+        "text": "David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 5
+          },
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 10,
+            "end": 17
+          }
+        ]
+      },
+      "slug": "David-vs.-Goliath:-Can-Small-Models-Win-Big-with-AI-Shankar-Pandey",
+      "paperAbstract": {
+        "text": "Large Language Model(LLM) inference demands massive compute and energy, making domain-specific tasks expensive and unsustainable. As foundation models keep scaling, we ask: Is bigger always better for hardware design?",
+        "fragments": []
+      },
+      "tldr": {
+        "text": "This work evaluates Small Language Models coupled with a curated agentic AI framework on NVIDIA's Comprehensive Verilog Design Problems benchmark.",
+        "abstractSimilarityScore": 2
+      },
+      "authors": [
+        [
+          {
+            "name": "Shashwat Shankar",
+            "ids": [
+              "2148266751"
+            ],
+            "slug": "Shashwat-Shankar",
+            "structuredName": {
+              "firstName": "Shashwat",
+              "middleNames": [],
+              "lastName": "Shankar"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Shashwat Shankar",
+            "fragments": []
+          }
+        ],
+        [
+          {
+            "name": "Subhranshu Pandey",
+            "ids": [
+              "2397334821"
+            ],
+            "slug": "Subhranshu-Pandey",
+            "structuredName": {
+              "firstName": "Subhranshu",
+              "middleNames": [],
+              "lastName": "Pandey"
+            },
+            "bitmap$0": false
+          },
+          {
+            "text": "Subhranshu Pandey",
+            "fragments": []
+          }
+        ]
+      ],
+      "structuredAuthors": [
+        {
+          "firstName": "Shashwat",
+          "middleNames": [],
+          "lastName": "Shankar"
+        },
+        {
+          "firstName": "Subhranshu",
+          "middleNames": [],
+          "lastName": "Pandey"
+        }
+      ],
+      "year": {
+        "text": "2025",
+        "fragments": []
+      },
+      "venue": {
+        "text": "arXiv.org",
+        "fragments": []
+      },
+      "venueId": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+      "citationStats": {
+        "numCitations": 0
+      },
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2512.05073"
+      },
+      "doiInfo": {
+        "doi": "10.48550/arXiv.2512.05073",
+        "doiUrl": "https://doi.org/10.48550/arXiv.2512.05073"
+      },
+      "links": [
+        {
+          "url": "https://arxiv.org/pdf/2512.05073.pdf",
+          "linkType": "arxiv"
+        }
+      ],
+      "primaryPaperLink": {
+        "url": "https://arxiv.org/pdf/2512.05073.pdf",
+        "linkType": "arxiv"
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "pubDate": "2025-12-04",
+      "badges": [
+        {
+          "id": "OPEN_ACCESS"
+        }
+      ],
+      "isPdfVisible": true,
+      "cues": {}
+    }
+  ],
+  "query": {
+    "queryString": "David vs Goliath",
+    "pageSize": 10,
+    "page": 1,
+    "sort": "relevance"
+  },
+  "totalPages": 11322,
+  "totalResults": 113220
+}

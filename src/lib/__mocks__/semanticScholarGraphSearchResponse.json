@@ -1,0 +1,2718 @@
+{
+  "total": 113220,
+  "offset": 0,
+  "next": 75,
+  "data": [
+    {
+      "paperId": "8c65fd535feda9073dc546df427f41e4f3224a3b",
+      "url": "https://www.semanticscholar.org/paper/8c65fd535feda9073dc546df427f41e4f3224a3b",
+      "title": "David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2512.05073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work evaluates Small Language Models coupled with a curated agentic AI framework on NVIDIA's Comprehensive Verilog Design Problems benchmark, showing that agentic workflows not only unlock near-LLM performance at a fraction of the cost but also create learning opportunities for agents, paving the way for efficient, adaptive solutions in complex design tasks."
+      },
+      "authors": [
+        {
+          "authorId": "2148266751",
+          "name": "Shashwat Shankar"
+        },
+        {
+          "authorId": "2397334821",
+          "name": "Subhranshu Pandey"
+        },
+        {
+          "authorId": "2356204524",
+          "name": "Innocent Dengkhw Mochahari"
+        },
+        {
+          "authorId": "2282139041",
+          "name": "Bhabesh Mali"
+        },
+        {
+          "authorId": "1477950967",
+          "name": "A. B. Chowdhury"
+        },
+        {
+          "authorId": "2393515872",
+          "name": "Sukanta Bhattacharjee"
+        },
+        {
+          "authorId": "2350012",
+          "name": "C. Karfa"
+        }
+      ]
+    },
+    {
+      "paperId": "31effd1fd7ed04da35f1ec0b5e3e5893f11a0899",
+      "url": "https://www.semanticscholar.org/paper/31effd1fd7ed04da35f1ec0b5e3e5893f11a0899",
+      "title": "David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2510.14115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "NL2Scenic and EDIT-COMP offer a standardized, reproducible basis for evaluating Scenic code generation and indicate that mid-size open-source models are practical, cost-effective options for autonomous-driving scenario programming."
+      },
+      "authors": [
+        {
+          "authorId": "2266260925",
+          "name": "P. Bauerfeind"
+        },
+        {
+          "authorId": "2333593532",
+          "name": "Amir Salarpour"
+        },
+        {
+          "authorId": "2353277530",
+          "name": "David Fernandez"
+        },
+        {
+          "authorId": "2249110741",
+          "name": "Pedram MohajerAnsari"
+        },
+        {
+          "authorId": "2285452539",
+          "name": "J. Reschke"
+        },
+        {
+          "authorId": "2331321126",
+          "name": "Mert D. Pes'e"
+        }
+      ]
+    },
+    {
+      "paperId": "8c5f643d2d57f18164f4a495f0a07a60255e7ee5",
+      "url": "https://www.semanticscholar.org/paper/8c5f643d2d57f18164f4a495f0a07a60255e7ee5",
+      "title": "David VS Goliath in the food delivery industry: the case of Jafood’s strategic path amid multinationals’ competition",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/jmh-04-2025-0071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/jmh-04-2025-0071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2283247921",
+          "name": "Fabio Greco"
+        }
+      ]
+    },
+    {
+      "paperId": "d64fbede4eb81ca44cccd1e29a962da15c30f024",
+      "url": "https://www.semanticscholar.org/paper/d64fbede4eb81ca44cccd1e29a962da15c30f024",
+      "title": "David vs Goliath: The challenges for plant-based meat companies competing with animal-based meat producers",
+      "year": 2023,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.jclepro.2023.138705",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.138705?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jclepro.2023.138705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2181486550",
+          "name": "Germano Glufke Reis"
+        },
+        {
+          "authorId": "2072260887",
+          "name": "Eduardo Guedes Villar"
+        },
+        {
+          "authorId": "41033660",
+          "name": "T. Ryynänen"
+        },
+        {
+          "authorId": "1749200022",
+          "name": "Vinícius Picanço Rodrigues"
+        }
+      ]
+    },
+    {
+      "paperId": "1f5b99e1e9eba7c6f15c5601e0679fbec8424f8a",
+      "url": "https://www.semanticscholar.org/paper/1f5b99e1e9eba7c6f15c5601e0679fbec8424f8a",
+      "title": "David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem",
+      "year": 2024,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/frai.2024.1408817",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11445140, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science", "Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is found that conventional machine learning algorithms in combination outperformed the large language model and that in specific contexts, conventional machine learning can supplement large language models, especially when labeled data is available."
+      },
+      "authors": [
+        {
+          "authorId": "2225233892",
+          "name": "Fabian Kieser"
+        },
+        {
+          "authorId": "2138999048",
+          "name": "Paul Tschisgale"
+        },
+        {
+          "authorId": "2321829041",
+          "name": "Sophia Rauh"
+        },
+        {
+          "authorId": "2321989929",
+          "name": "Xiaoyu Bai"
+        },
+        {
+          "authorId": "2321831088",
+          "name": "Holger Maus"
+        },
+        {
+          "authorId": "2059921200",
+          "name": "Stefan Petersen"
+        },
+        {
+          "authorId": "2269459161",
+          "name": "Manfred Stede"
+        },
+        {
+          "authorId": "2267760916",
+          "name": "Knut Neumann"
+        },
+        {
+          "authorId": "2289993046",
+          "name": "Peter Wulff"
+        }
+      ]
+    },
+    {
+      "paperId": "1504d3c080c172cc1c62b4f40fc5ac70a53e93fe",
+      "url": "https://www.semanticscholar.org/paper/1504d3c080c172cc1c62b4f40fc5ac70a53e93fe",
+      "title": "David vs. Goliath: The Structure, Function, and Clinical Prospects of Antibody Fragments",
+      "year": 2019,
+      "citationCount": 185,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2073-4468/8/2/28/pdf?version=1554810512",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6640713, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Biology", "Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The structure, production, and mechanism of action of EMA/FDA-approved fragments and of those in clinical and pre-clinical development are discussed and current topics of interest surrounding the potential use of antibody fragments for intracellular targeting and blood–brain barrier penetration are discussed."
+      },
+      "authors": [
+        {
+          "authorId": "1742043716",
+          "name": "Adam K. Bates"
+        },
+        {
+          "authorId": "143843672",
+          "name": "C. Power"
+        }
+      ]
+    },
+    {
+      "paperId": "d1d982d03479d6672b8262cef52ff2a7c6dae6e2",
+      "url": "https://www.semanticscholar.org/paper/d1d982d03479d6672b8262cef52ff2a7c6dae6e2",
+      "title": "David vs. Goliath: Defeating Russian Autocracy",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1353/jod.2025.a954559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1353/jod.2025.a954559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "71208871",
+          "name": "S. Plokhy"
+        }
+      ]
+    },
+    {
+      "paperId": "d7884474115b9333b83c987ced4a87bfd0c0edcd",
+      "url": "https://www.semanticscholar.org/paper/d7884474115b9333b83c987ced4a87bfd0c0edcd",
+      "title": "David vs. Goliath: large foundation models are not outperforming small models in multi-view mammogram breast cancer prediction",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.3007054?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.3007054, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Engineering"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The results suggest that while foundation models possess considerable potential, their efficacy in medium-sized datasets and in transitioning from single-view to multi-view image analysis, particularly where reasoning feature relationships across different mammographic views is crucial, can be challenging."
+      },
+      "authors": [
+        {
+          "authorId": "48282720",
+          "name": "Xuxin Chen"
+        },
+        {
+          "authorId": "152300562",
+          "name": "Mingzhe Hu"
+        },
+        {
+          "authorId": "2119059406",
+          "name": "Keqin Zhang"
+        },
+        {
+          "authorId": "2157370253",
+          "name": "Neman Abdoli"
+        },
+        {
+          "authorId": "2212898349",
+          "name": "Youkabed Sadri"
+        },
+        {
+          "authorId": "2025328272",
+          "name": "Patrik W. Gilley"
+        },
+        {
+          "authorId": "2294935306",
+          "name": "Omkar Chekuri"
+        },
+        {
+          "authorId": "21505958",
+          "name": "Farid H Omoumi"
+        },
+        {
+          "authorId": "2267674791",
+          "name": "Yuchen Qiu"
+        },
+        {
+          "authorId": "2294948258",
+          "name": "Bin Zheng"
+        },
+        {
+          "authorId": "2294304479",
+          "name": "Xiaofeng Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "09947818fa6d63ca1bcf9707b0c52f7c3d62d2a2",
+      "url": "https://www.semanticscholar.org/paper/09947818fa6d63ca1bcf9707b0c52f7c3d62d2a2",
+      "title": "The “David Vs Goliath” Study: Application of Large Language Models (LLM) for Automatic Medical Information Retrieval from Multiple Data Sources to Accelerate Clinical and Translational Research in Hematology",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1182/blood-2024-205621?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1182/blood-2024-205621, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The proposed ARISTOTELES solution allows automatic information retrieval, extraction and structuring of complex multimodal healthcare data and results in increasing access to healthcare data and reducing human effort required for data collection tasks."
+      },
+      "authors": [
+        {
+          "authorId": "2306575651",
+          "name": "Mattia Delleani"
+        },
+        {
+          "authorId": "2066037960",
+          "name": "S. D'amico"
+        },
+        {
+          "authorId": "2269297181",
+          "name": "Elisabetta Sauta"
+        },
+        {
+          "authorId": "2220936942",
+          "name": "G. Asti"
+        },
+        {
+          "authorId": "2306578858",
+          "name": "Elena Zazzetti"
+        },
+        {
+          "authorId": "66199932",
+          "name": "Alessia Campagna"
+        },
+        {
+          "authorId": "2007061135",
+          "name": "L. Lanino"
+        },
+        {
+          "authorId": "2036665990",
+          "name": "G. Maggioni"
+        },
+        {
+          "authorId": "2269351138",
+          "name": "M. C. Grondelli"
+        },
+        {
+          "authorId": "2334198578",
+          "name": "Alessandro Forcina Barrero"
+        },
+        {
+          "authorId": "80449932",
+          "name": "Pierandrea Morandini"
+        },
+        {
+          "authorId": "5375246",
+          "name": "M. Ubezio"
+        },
+        {
+          "authorId": "2269203847",
+          "name": "G. Todisco"
+        },
+        {
+          "authorId": "2220934232",
+          "name": "Antonio Russo"
+        },
+        {
+          "authorId": "6549461",
+          "name": "C. Tentori"
+        },
+        {
+          "authorId": "2269297401",
+          "name": "Alessandro Buizza"
+        },
+        {
+          "authorId": "2316706214",
+          "name": "Arturo Bonometti"
+        },
+        {
+          "authorId": "46186544",
+          "name": "Cesare Lancellotti"
+        },
+        {
+          "authorId": "2257914033",
+          "name": "Luca di Tommaso"
+        },
+        {
+          "authorId": "2311020497",
+          "name": "Daoud Rahal"
+        },
+        {
+          "authorId": "2092789965",
+          "name": "Marilena Bicchieri"
+        },
+        {
+          "authorId": "1768393295",
+          "name": "V. Savevski"
+        },
+        {
+          "authorId": "2269180322",
+          "name": "Armando Santoro"
+        },
+        {
+          "authorId": "2276294359",
+          "name": "V. Santini"
+        },
+        {
+          "authorId": "2263814269",
+          "name": "Francesc Solé"
+        },
+        {
+          "authorId": "2264473744",
+          "name": "U. Platzbecker"
+        },
+        {
+          "authorId": "2245727064",
+          "name": "P. Fenaux"
+        },
+        {
+          "authorId": "1397302785",
+          "name": "M. Díez-Campelo"
+        },
+        {
+          "authorId": "6071759",
+          "name": "R. Komrokji"
+        },
+        {
+          "authorId": "1393642056",
+          "name": "G. Garcia-Manero"
+        },
+        {
+          "authorId": "2293122974",
+          "name": "T. Haferlach"
+        },
+        {
+          "authorId": "81559990",
+          "name": "S. Kordasti"
+        },
+        {
+          "authorId": "144821812",
+          "name": "A. Zeidan"
+        },
+        {
+          "authorId": "2288888550",
+          "name": "G. Castellani"
+        },
+        {
+          "authorId": "2264431842",
+          "name": "M. D. Della Porta"
+        }
+      ]
+    },
+    {
+      "paperId": "3258975902bd0d572035269c9b51c6f4b532a5da",
+      "url": "https://www.semanticscholar.org/paper/3258975902bd0d572035269c9b51c6f4b532a5da",
+      "title": "David vs. Goliath: Cost-Efficient Financial QA via Cascaded Multi-Agent Reasoning",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18653/v1/2025.findings-emnlp.225?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18653/v1/2025.findings-emnlp.225, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": null
+      },
+      "authors": [
+        {
+          "authorId": "2317182267",
+          "name": "Chenghao Liu"
+        },
+        {
+          "authorId": "2307418228",
+          "name": "Qian Liu"
+        },
+        {
+          "authorId": "2328019415",
+          "name": "Ziqing Zhu"
+        },
+        {
+          "authorId": "2391581782",
+          "name": "Hao Fei"
+        },
+        {
+          "authorId": "2346798",
+          "name": "Aniket Mahanti"
+        }
+      ]
+    },
+    {
+      "paperId": "f0591d555072fddc9b4d1932f593e38790017115",
+      "url": "https://www.semanticscholar.org/paper/f0591d555072fddc9b4d1932f593e38790017115",
+      "title": "Pizza Italia – Indian pizza brand in the battle of David vs Goliath",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/eemcs-08-2023-0291?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/eemcs-08-2023-0291, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2294294734",
+          "name": "Himanshu Chauhan"
+        },
+        {
+          "authorId": "2294291212",
+          "name": "Priyanka Panday"
+        },
+        {
+          "authorId": "90164896",
+          "name": "Raghav Upadhyai"
+        },
+        {
+          "authorId": "2294293844",
+          "name": "Gargi Pant Shukla"
+        }
+      ]
+    },
+    {
+      "paperId": "0d98eb57d961de7ba7ac1f37a7a0d6f81290a5c4",
+      "url": "https://www.semanticscholar.org/paper/0d98eb57d961de7ba7ac1f37a7a0d6f81290a5c4",
+      "title": "Accelerated failure time vs Cox proportional hazards mixture cure models: David vs Goliath?",
+      "year": 2022,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://lirias.kuleuven.be/bitstream/20.500.12942/704196/2/paper-210425-final.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00362-022-01345-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00362-022-01345-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The identifiability of this model under weak assumptions is shown and it is shown that the AFT and the Cox model both fit the data well in the region of sufficient follow-up, but differ drastically outside that region."
+      },
+      "authors": [
+        {
+          "authorId": "32774447",
+          "name": "Motahareh Parsa"
+        },
+        {
+          "authorId": "8995293",
+          "name": "I. Van Keilegom"
+        }
+      ]
+    },
+    {
+      "paperId": "f80d93160737a79872b0b77d65bff646d5eee04b",
+      "url": "https://www.semanticscholar.org/paper/f80d93160737a79872b0b77d65bff646d5eee04b",
+      "title": "The case of David vs. Goliath. On legal ethics and corporate lawyering in large-scale liability cases",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/1460728x.2023.2235180?needAccess=true&role=button",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1460728x.2023.2235180?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1460728x.2023.2235180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1654669024",
+          "name": "Iris van Domselaar"
+        },
+        {
+          "authorId": "2139239174",
+          "name": "Ruth de Bock"
+        }
+      ]
+    },
+    {
+      "paperId": "f6f5a06e9a93c03f1b0d31e94306ddea027734b8",
+      "url": "https://www.semanticscholar.org/paper/f6f5a06e9a93c03f1b0d31e94306ddea027734b8",
+      "title": "Large and small firms in a global market: David vs. Goliath",
+      "year": 2018,
+      "citationCount": 57,
+      "openAccessPdf": {
+        "url": "http://uclouvain.be/cps/ucl/doc/core/documents/coredp2013_58web.pdf",
+        "status": "GREEN",
+        "license": "mit",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JINTECO.2017.09.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JINTECO.2017.09.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "47164253",
+          "name": "Mathieu Parenti"
+        },
+        {
+          "authorId": "47164253",
+          "name": "Mathieu Parenti"
+        },
+        {
+          "authorId": "47164253",
+          "name": "Mathieu Parenti"
+        }
+      ]
+    },
+    {
+      "paperId": "e012629be608d942d71b81c94d0bf1c65df781d7",
+      "url": "https://www.semanticscholar.org/paper/e012629be608d942d71b81c94d0bf1c65df781d7",
+      "title": "David vs. Goliath: transnational grassroots outreach and empirical evidence from the #HongKongProtests Twitter network",
+      "year": 2022,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15358593.2022.2106793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15358593.2022.2106793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2168293893",
+          "name": "Cheryl S. Y. Shea"
+        },
+        {
+          "authorId": "2265621282",
+          "name": "Yanru Jiang"
+        },
+        {
+          "authorId": "2183487778",
+          "name": "Wendy L. Y. Leung"
+        }
+      ]
+    },
+    {
+      "paperId": "1e2f32aec1ba0e3b710e412ccab8c96973f3398c",
+      "url": "https://www.semanticscholar.org/paper/1e2f32aec1ba0e3b710e412ccab8c96973f3398c",
+      "title": "The digital divide: David vs. Goliath",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/08404704231194574?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/08404704231194574, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The digital roadmap sets Good Samaritan up to rise above the ongoing barrage of cyberattacks and loss of insurance, which is a digital divide story of David vs. Goliath."
+      },
+      "authors": [
+        {
+          "authorId": "2271073294",
+          "name": "Steve Kovacic"
+        },
+        {
+          "authorId": "69553727",
+          "name": "Terry Carlson"
+        }
+      ]
+    },
+    {
+      "paperId": "bf37d34b6a0d894a1af7c499a3443be3ca9c4458",
+      "url": "https://www.semanticscholar.org/paper/bf37d34b6a0d894a1af7c499a3443be3ca9c4458",
+      "title": "David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning",
+      "year": 2026,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2602.02395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This work establishes Tag-Along Attacks as a first-class, verifiable threat model and shows that effective agentic attacks can be elicited from off-the-shelf open-weight models through environment interaction alone."
+      },
+      "authors": [
+        {
+          "authorId": "2408457732",
+          "name": "Samuel Nellessen"
+        },
+        {
+          "authorId": "2551829",
+          "name": "T. Kachman"
+        }
+      ]
+    },
+    {
+      "paperId": "8ce122e33aaaacb04c251e3fe29216279c3253f5",
+      "url": "https://www.semanticscholar.org/paper/8ce122e33aaaacb04c251e3fe29216279c3253f5",
+      "title": "Ook in Aruba geen hindervergunning indien deze niet voldoet aan internationaal aanvaarde en vastgestelde milieuemissienormen; overwinning David vs. Goliath",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5553/cjb/221132662024013001004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5553/cjb/221132662024013001004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145581118",
+          "name": "J. Sybesma"
+        }
+      ]
+    },
+    {
+      "paperId": "6760f8fab13ce2efb0f5fca533f11aff2fd056ab",
+      "url": "https://www.semanticscholar.org/paper/6760f8fab13ce2efb0f5fca533f11aff2fd056ab",
+      "title": "\"David vs. Goliath\": A simple antigen detection test with potential to change diagnostic strategy for SARS-CoV-2.",
+      "year": 2021,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.jidc.org/index.php/journal/article/download/34343113/2558",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3855/jidc.13925?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3855/jidc.13925, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Evaluating the performance of Standard Q COVID-19 Ag, a rapid immuno-chromatographic assay for antigen detection, against TrueNat, a chip-based, point-of-care, portable, Real-Time PCR analyzer for diagnosis of CO VID-19 found strong agreement between two methods."
+      },
+      "authors": [
+        {
+          "authorId": "144528551",
+          "name": "J. Agarwal"
+        },
+        {
+          "authorId": "50317340",
+          "name": "Anupam Das"
+        },
+        {
+          "authorId": "1928284683",
+          "name": "P. Pandey"
+        },
+        {
+          "authorId": "38712958",
+          "name": "M. Sen"
+        },
+        {
+          "authorId": "3563113",
+          "name": "Jaya Garg"
+        }
+      ]
+    },
+    {
+      "paperId": "d223c9f19a0c9c9490704b93451f5e48265ecea9",
+      "url": "https://www.semanticscholar.org/paper/d223c9f19a0c9c9490704b93451f5e48265ecea9",
+      "title": "The Case of David vs. Goliath. On Legal Ethics and Corporate Lawyering in Large Scale Civil Liability Cases",
+      "year": 2022,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.4025141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.4025141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1654669024",
+          "name": "Iris van Domselaar"
+        },
+        {
+          "authorId": "2139239174",
+          "name": "Ruth de Bock"
+        }
+      ]
+    },
+    {
+      "paperId": "80f8fda5028074e6c8062aaac88a3f8e421929d9",
+      "url": "https://www.semanticscholar.org/paper/80f8fda5028074e6c8062aaac88a3f8e421929d9",
+      "title": "Electoral David-vs-Goliath: Probabilistic Models of Spatial Distribution of Electors to Simulate District-Based Election Outcomes",
+      "year": 2021,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'tldr'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WSC52266.2021.9715325?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WSC52266.2021.9715325, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "37847410",
+          "name": "Adway Mitra"
+        }
+      ]
+    },
+    {
+      "paperId": "3fb204629b91b4396505147b0bcfee5775a0787a",
+      "url": "https://www.semanticscholar.org/paper/3fb204629b91b4396505147b0bcfee5775a0787a",
+      "title": "David vs. Goliath? Leveraging citizen science in Israel’s energy debates",
+      "year": 2020,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.erss.2020.101797?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.erss.2020.101797, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "49270510",
+          "name": "R. Friedman"
+        },
+        {
+          "authorId": "40365416",
+          "name": "Gillad Rosen"
+        }
+      ]
+    },
+    {
+      "paperId": "d23f793bcc77481a52765080bcff6cfd551f3b0e",
+      "url": "https://www.semanticscholar.org/paper/d23f793bcc77481a52765080bcff6cfd551f3b0e",
+      "title": "David vs. Goliath Battle of the Environmental Justice Movement: How Citizens Against Nuclear Trash (CANT) Defeated the Louisiana Energy Services",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.21694/2379-2914.23002",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21694/2379-2914.23002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21694/2379-2914.23002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": []
+    },
+    {
+      "paperId": "3bad26a8d3e7e41f9566bf5c5888744f1d2861b4",
+      "url": "https://www.semanticscholar.org/paper/3bad26a8d3e7e41f9566bf5c5888744f1d2861b4",
+      "title": "‘David vs Goliath’: The Congo Free State Propaganda War, 1890–1909",
+      "year": 2020,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/07075332.2020.1814841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/07075332.2020.1814841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "153805514",
+          "name": "D. Clay"
+        }
+      ]
+    },
+    {
+      "paperId": "decf32ed05fd9f76b833e5b7f1cec1a8de0a86e6",
+      "url": "https://www.semanticscholar.org/paper/decf32ed05fd9f76b833e5b7f1cec1a8de0a86e6",
+      "title": "Patagonia, without Dams! Lessons of a David vs. Goliath campaign",
+      "year": 2016,
+      "citationCount": 30,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.EXIS.2016.10.004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.EXIS.2016.10.004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "116565534",
+          "name": "Eduardo Silva"
+        }
+      ]
+    },
+    {
+      "paperId": "5ffed7342fc938ab2536a88717547f4c29de5554",
+      "url": "https://www.semanticscholar.org/paper/5ffed7342fc938ab2536a88717547f4c29de5554",
+      "title": "Electoral David vs Goliath: How does the Spatial Concentration of Electors affect District-based Elections?",
+      "year": 2020,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2006.11865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science", "Mathematics"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper frames the spatial distribution of electors in a probabilistic setting, and explores different models to capture the intra-district polarization of elector in favour of a party, or the spatial concentration of supporters of different parties."
+      },
+      "authors": [
+        {
+          "authorId": "37847410",
+          "name": "Adway Mitra"
+        }
+      ]
+    },
+    {
+      "paperId": "8aa07490cf71c788fbaa9375d48afbd44d523a50",
+      "url": "https://www.semanticscholar.org/paper/8aa07490cf71c788fbaa9375d48afbd44d523a50",
+      "title": "David vs. Goliath",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2307/j.ctvkwnmwf.27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2307/j.ctvkwnmwf.27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1393050078",
+          "name": "D. V. Goliath"
+        }
+      ]
+    },
+    {
+      "paperId": "e55adfaf6f875ce8984a1465214611f2140c6113",
+      "url": "https://www.semanticscholar.org/paper/e55adfaf6f875ce8984a1465214611f2140c6113",
+      "title": "Observational vs randomized: David vs Goliath for thromboprophylaxis in critically ill patients?",
+      "year": 2019,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00134-019-05541-0.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00134-019-05541-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00134-019-05541-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "49509607",
+          "name": "J. Helms"
+        },
+        {
+          "authorId": "144547191",
+          "name": "J. Bion"
+        },
+        {
+          "authorId": "4605101",
+          "name": "A. De Jong"
+        }
+      ]
+    },
+    {
+      "paperId": "b669eb42090e11a6642a8eabb552cc9710175be9",
+      "url": "https://www.semanticscholar.org/paper/b669eb42090e11a6642a8eabb552cc9710175be9",
+      "title": "David vs. Goliath: Uncovering The Future of Traditional Markets in Indonesia",
+      "year": 2015,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5901/mjss.2015.v6n5p28",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5901/MJSS.2015.V6N5P28?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5901/MJSS.2015.V6N5P28, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "9220039",
+          "name": "F. Prabowo"
+        },
+        {
+          "authorId": "145797927",
+          "name": "R. A. Rahadi"
+        }
+      ]
+    },
+    {
+      "paperId": "b18594fcfc0d17bf5896e89dd5ef8f7e2b93097c",
+      "url": "https://www.semanticscholar.org/paper/b18594fcfc0d17bf5896e89dd5ef8f7e2b93097c",
+      "title": "David vs. Goliath: Kaliningrad Oblast as Russia’s A2/AD ‘Bubble’",
+      "year": 2019,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "http://sjms.nu/articles/10.31374/sjms.20/galley/30/download/",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31374/SJMS.20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31374/SJMS.20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "104549577",
+          "name": "Sergey Sukhankin"
+        }
+      ]
+    },
+    {
+      "paperId": "eee16b774faa873dce0ceead1e65c23c44efcd68",
+      "url": "https://www.semanticscholar.org/paper/eee16b774faa873dce0ceead1e65c23c44efcd68",
+      "title": "Coronavirus Pandemic “David vs. Goliath”: A simple antigen detection test with potential to change diagnostic strategy for SARS-CoV-2",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://jidc.org/index.php/journal/article/download/34343113/2558/, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Rapid antigen detection tests definitely have a big role to play, especially in resource limited setting, for early diagnosis as well as for source control to halt the spread."
+      },
+      "authors": [
+        {
+          "authorId": "144528551",
+          "name": "J. Agarwal"
+        },
+        {
+          "authorId": "50317340",
+          "name": "Anupam Das"
+        },
+        {
+          "authorId": "1928284683",
+          "name": "P. Pandey"
+        },
+        {
+          "authorId": "38712958",
+          "name": "M. Sen"
+        },
+        {
+          "authorId": "3563113",
+          "name": "Jaya Garg"
+        }
+      ]
+    },
+    {
+      "paperId": "6462d8e48cdd5d089fb15195760d0194a83c9765",
+      "url": "https://www.semanticscholar.org/paper/6462d8e48cdd5d089fb15195760d0194a83c9765",
+      "title": "Clay D. “David vs Goliath”: The Congo Free State Propaganda War, 1890-1909 // The International History Review. 2020. Vol. 43. № 3. P. 457-474: Opinion Paper",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.gramota.net/articles/mns210311.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30853/mns210311?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30853/mns210311, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2197251987",
+          "name": "Dmitry Zarubin"
+        }
+      ]
+    },
+    {
+      "paperId": "292f43b824a59775c3f335af07cafd85fb50e4db",
+      "url": "https://www.semanticscholar.org/paper/292f43b824a59775c3f335af07cafd85fb50e4db",
+      "title": "David vs. Goliath: An Analysis of Asymmetric Mixed-Strategy Games and Experimental Evidence",
+      "year": 2002,
+      "citationCount": 54,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1287/mnsc.48.8.972.165?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1287/mnsc.48.8.972.165, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics", "Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A stylized model of patent race is developed to examine the implications of asymmetric mixed-strategy solutions and finds that the firm that values the patent less is likely to invest more aggressively in developing the product and will also win the patent more often."
+      },
+      "authors": [
+        {
+          "authorId": "1992532",
+          "name": "Wilfred Amaldoss"
+        },
+        {
+          "authorId": "144135940",
+          "name": "Sanjay Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "b0ca3a1e5af5fded5cde6a35161f8a97f196b08e",
+      "url": "https://www.semanticscholar.org/paper/b0ca3a1e5af5fded5cde6a35161f8a97f196b08e",
+      "title": "David vs. Goliath in the Digital Age: The Effect of Network Structure and Content on the Adoption of Cultural Products",
+      "year": 2019,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3403509?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3403509, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Business"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "83451258",
+          "name": "Jamie Seo Yeon Song"
+        },
+        {
+          "authorId": "29199379",
+          "name": "M. Gargiulo"
+        }
+      ]
+    },
+    {
+      "paperId": "462ec1e6efeaf2ab4b3b53a20b94471736b89030",
+      "url": "https://www.semanticscholar.org/paper/462ec1e6efeaf2ab4b3b53a20b94471736b89030",
+      "title": "David vs. Goliath : En kvalitativ studie om hur mikroföretag kan använda sökmotorer i sin marknadsföring",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "47600788",
+          "name": "Johan Henriksson"
+        },
+        {
+          "authorId": "1506095474",
+          "name": "Adam Ågehäll"
+        }
+      ]
+    },
+    {
+      "paperId": "3926dc3738832008c8bc0611dfa1822bc3296e33",
+      "url": "https://www.semanticscholar.org/paper/3926dc3738832008c8bc0611dfa1822bc3296e33",
+      "title": "David vs Goliath (You against the Markets), A dynamic programming approach to separate the impact and timing of trading costs",
+      "year": 2016,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/1603.00984",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1603.00984, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "46670294",
+          "name": "R. Kashyap"
+        }
+      ]
+    },
+    {
+      "paperId": "6bd644dc1d0c9fb31326ccc6573f2fd67c7571f4",
+      "url": "https://www.semanticscholar.org/paper/6bd644dc1d0c9fb31326ccc6573f2fd67c7571f4",
+      "title": "David vs. Goliath: Serotonin modulates opponent perception between smaller and larger rivals.",
+      "year": 2015,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S0166432815300991",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbr.2015.07.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbr.2015.07.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine", "Psychology"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "It is shown that both high-intensity aggression and the probability of winning are increased in males with pharmacologically elevated 5-HT relative to size-matched non-treated opponents, and that the fact that larger opponents continued to win against smaller treated flies was not simply a function of size."
+      },
+      "authors": [
+        {
+          "authorId": "48757730",
+          "name": "Andrew N Bubak"
+        },
+        {
+          "authorId": "51933924",
+          "name": "Nathaniel S. Rieger"
+        },
+        {
+          "authorId": "143985210",
+          "name": "M. Watt"
+        },
+        {
+          "authorId": "4976748",
+          "name": "K. Renner"
+        },
+        {
+          "authorId": "40580814",
+          "name": "J. Swallow"
+        }
+      ]
+    },
+    {
+      "paperId": "d3bc0d149f4138b62bc57eb30ff65fd88c84e504",
+      "url": "https://www.semanticscholar.org/paper/d3bc0d149f4138b62bc57eb30ff65fd88c84e504",
+      "title": "Non-invasive pre-natal testing vs amniocentesis and karyotyping: A David vs Goliath story",
+      "year": 2020,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.18231/2394-6792.2018.0071",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18231/2394-6792.2018.0071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18231/2394-6792.2018.0071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The study suggests no significant difference in the detection rates on NIPT vs the conventional karyotype, however, the results need to be interpreted in the light of low incidence rates of chromosomal anomalies in general population."
+      },
+      "authors": [
+        {
+          "authorId": "46409400",
+          "name": "V. Bajaj"
+        },
+        {
+          "authorId": "82523538",
+          "name": "R. Chakravarty"
+        },
+        {
+          "authorId": "1931304798",
+          "name": "Yaduvir Singh"
+        },
+        {
+          "authorId": "36558560",
+          "name": "S. Ganesh"
+        },
+        {
+          "authorId": "2145044281",
+          "name": "Avnish Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "c521b192356e5aceeabc53b34c11db3bbc8bb87e",
+      "url": "https://www.semanticscholar.org/paper/c521b192356e5aceeabc53b34c11db3bbc8bb87e",
+      "title": "P07 David vs. Goliath: CTCA versus invasive angiography in previous bypass patients presenting with NSTEACS",
+      "year": 2020,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://heart.bmj.com/content/heartjnl/106/Suppl_3/A7.2.full.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1136/heartjnl-2020-bsci.20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1136/heartjnl-2020-bsci.20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "31697984",
+          "name": "S. Hill"
+        },
+        {
+          "authorId": "66352063",
+          "name": "S. Thiru"
+        },
+        {
+          "authorId": "90055723",
+          "name": "A. Farag"
+        }
+      ]
+    },
+    {
+      "paperId": "77a14b32c31dea226642db513f53ac6eb1b57f56",
+      "url": "https://www.semanticscholar.org/paper/77a14b32c31dea226642db513f53ac6eb1b57f56",
+      "title": "David vs. Goliath.",
+      "year": 2006,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "5300919",
+          "name": "K. Freeman"
+        }
+      ]
+    },
+    {
+      "paperId": "c0436bc6d837045d9f87f6533676d4afa1b43071",
+      "url": "https://www.semanticscholar.org/paper/c0436bc6d837045d9f87f6533676d4afa1b43071",
+      "title": "David vs. Goliath of voter turnout: Why is the participation in EU elections so low?",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2083555141",
+          "name": "Florian Gasser"
+        }
+      ]
+    },
+    {
+      "paperId": "ee12874d6d569bf56375c58a98d885bd5d3ac8bf",
+      "url": "https://www.semanticscholar.org/paper/ee12874d6d569bf56375c58a98d885bd5d3ac8bf",
+      "title": "Comparison of Two Methods for Estimating Volume Status in Incident Peritoneal Dialysis Patients – David vs. Goliath",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145851150",
+          "name": "B. Vujičić"
+        },
+        {
+          "authorId": "79043862",
+          "name": "G. Dorčić"
+        },
+        {
+          "authorId": "3880900",
+          "name": "V. Babić"
+        },
+        {
+          "authorId": "78100443",
+          "name": "Anamarija Rundić"
+        },
+        {
+          "authorId": "82141090",
+          "name": "Ksenija Jozić"
+        },
+        {
+          "authorId": "48621353",
+          "name": "B. Devčić"
+        },
+        {
+          "authorId": "5965097",
+          "name": "L. Zaputović"
+        },
+        {
+          "authorId": "4206378",
+          "name": "S. Rački"
+        }
+      ]
+    },
+    {
+      "paperId": "a51ad7a233f35b760e6f76d41279419956047197",
+      "url": "https://www.semanticscholar.org/paper/a51ad7a233f35b760e6f76d41279419956047197",
+      "title": "“David vs. Goliath”: examining market entry of high-tech start-ups in the electric toothbrush industry",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://web.archive.org/web/20210813161953/https://repositum.tuwien.at/bitstream/20.500.12708/6473/2/Shmelev%20Andrei%20-%202019%20-%20David%20vs%20Goliath%20examining%20market%20entry%20of%20high-tech...pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Business"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "48893746",
+          "name": "A. Shmelev"
+        }
+      ]
+    },
+    {
+      "paperId": "d61ab394aac375cff9f9da3f654bec64098e15ac",
+      "url": "https://www.semanticscholar.org/paper/d61ab394aac375cff9f9da3f654bec64098e15ac",
+      "title": "FOURTEEN. David vs. Goliath",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1525/9780520964174-017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1525/9780520964174-017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "97453281",
+          "name": "G. Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "4f61cff5f6d8738224c31bf666bc5db70b410caa",
+      "url": "https://www.semanticscholar.org/paper/4f61cff5f6d8738224c31bf666bc5db70b410caa",
+      "title": "The role of non-state actors in decision making over the re-registration of the pesticide Glyphosate in the EU. A David vs. Goliath battle?",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "123366745",
+          "name": "Shoshanna Dorany"
+        }
+      ]
+    },
+    {
+      "paperId": "fd6963715cfc0efb86265d7780dc177b5739f5d5",
+      "url": "https://www.semanticscholar.org/paper/fd6963715cfc0efb86265d7780dc177b5739f5d5",
+      "title": "Third Quarter: David vs. Goliath Hotels: Which Performed Better this Quarter?",
+      "year": 2018,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1028&context=cremi, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["History"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1738691995",
+          "name": "Crocker H. Liu"
+        },
+        {
+          "authorId": "144618798",
+          "name": "Adam D. Nowak"
+        },
+        {
+          "authorId": "39882179",
+          "name": "Robert M. White"
+        }
+      ]
+    },
+    {
+      "paperId": "deeaf0b49bef86d6d842844de4885a30b62ef7ce",
+      "url": "https://www.semanticscholar.org/paper/deeaf0b49bef86d6d842844de4885a30b62ef7ce",
+      "title": "David vs. Goliath",
+      "year": 2015,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "47164253",
+          "name": "Mathieu Parenti"
+        }
+      ]
+    },
+    {
+      "paperId": "7da2b6930c059f20166eb36701e71aff07c2e5ea",
+      "url": "https://www.semanticscholar.org/paper/7da2b6930c059f20166eb36701e71aff07c2e5ea",
+      "title": "David vs Goliath (You Against the Markets), A Dynamic Programming Approach to Separate the Impact and Timing of Trading Costs (Presentation Slides)",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/SSRN.2970366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/SSRN.2970366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2411303092",
+          "name": "Ravi Kashyap"
+        },
+        {
+          "authorId": "2411303092",
+          "name": "Ravi Kashyap"
+        }
+      ]
+    },
+    {
+      "paperId": "2019a72e5225972bb3bd6b218b5c5b717316013e",
+      "url": "https://www.semanticscholar.org/paper/2019a72e5225972bb3bd6b218b5c5b717316013e",
+      "title": "David vs. Goliath or traditional versus modern retail formats: investigating determinant of customer loyalty in emerging markets",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Business"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2331988855",
+          "name": "Carla Pennano Villanueva"
+        }
+      ]
+    },
+    {
+      "paperId": "2f707b90dd4d18856b2cdcb4ae9ae9a4622cf9d0",
+      "url": "https://www.semanticscholar.org/paper/2f707b90dd4d18856b2cdcb4ae9ae9a4622cf9d0",
+      "title": "Lobbying on alcohol bill likened to ‘David vs Goliath’.",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "144600690",
+          "name": "D. Lynch"
+        }
+      ]
+    },
+    {
+      "paperId": "101c566c58530ddc28fcdb8e9021203e10c2f105",
+      "url": "https://www.semanticscholar.org/paper/101c566c58530ddc28fcdb8e9021203e10c2f105",
+      "title": "David vs Goliath : for more than a decade Israel's two public container ports have slugged it out for a share of the country's trade, but private competition now promises to change everything",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Business"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "81541232",
+          "name": "A. Ross"
+        }
+      ]
+    },
+    {
+      "paperId": "f7e105fc99d0003e252e1a4994e449a42f1c8541",
+      "url": "https://www.semanticscholar.org/paper/f7e105fc99d0003e252e1a4994e449a42f1c8541",
+      "title": "David vs Goliath (You against the Markets), A Dynamic Programming Approach to Separate the Impact and Timing of Trading Costs",
+      "year": 2016,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2411303092",
+          "name": "Ravi Kashyap"
+        },
+        {
+          "authorId": "2411303092",
+          "name": "Ravi Kashyap"
+        }
+      ]
+    },
+    {
+      "paperId": "28d4d352a09bee80f4131dea291219a8d3c438b8",
+      "url": "https://www.semanticscholar.org/paper/28d4d352a09bee80f4131dea291219a8d3c438b8",
+      "title": "DAVID VS. GOLIATH: VALVE-SPARING ROOT REPLACEMENT IMPROVES Outcomes COMPARED TO BENTALL PROCEDURES IN PATIENTS WITH AORTIC ROOT DILATATION",
+      "year": 2015,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cjca.2015.07.461?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cjca.2015.07.461, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "5866833",
+          "name": "M. Ouzounian"
+        },
+        {
+          "authorId": "2238985083",
+          "name": "V. Rao"
+        },
+        {
+          "authorId": "6543527",
+          "name": "C. Manlhiot"
+        },
+        {
+          "authorId": "2065688724",
+          "name": "N. Abraham"
+        },
+        {
+          "authorId": "119998629",
+          "name": "C. David"
+        },
+        {
+          "authorId": "10064607",
+          "name": "C. Feindel"
+        },
+        {
+          "authorId": "2110599",
+          "name": "T. David"
+        }
+      ]
+    },
+    {
+      "paperId": "c3fa88a3a4e8bc19bee16772cecf5a787e2e3b91",
+      "url": "https://www.semanticscholar.org/paper/c3fa88a3a4e8bc19bee16772cecf5a787e2e3b91",
+      "title": "DAVID VS GOLIATH: TWITTER'S ROLE IN EQUALISING BIG-PARTY DOMINANCE",
+      "year": 2015,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1142/9789814713627_0009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/9789814713627_0009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "47158638",
+          "name": "Xiaoge Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "201bdecd038382ed5555aa7f9bdfb0b828fb02b2",
+      "url": "https://www.semanticscholar.org/paper/201bdecd038382ed5555aa7f9bdfb0b828fb02b2",
+      "title": "David vs Goliath anno nu:Runningtherapie vs Depressie",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Psychology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "119047921",
+          "name": "F. L. Foekens"
+        }
+      ]
+    },
+    {
+      "paperId": "8af22c245272a4e5aba4ae37d9af4e0a88dd3f52",
+      "url": "https://www.semanticscholar.org/paper/8af22c245272a4e5aba4ae37d9af4e0a88dd3f52",
+      "title": "David vs. Goliath, or Goliath crushing David? Economic Sanctions and the Influence of Country Size",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://openaccess.leidenuniv.nl/bitstream/handle/1887/41060/Vaassen,%20Lex-s1366777-BA%20Thesis%20IBO%2005-2016.pdf?sequence=1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": []
+    },
+    {
+      "paperId": "13cd148d09e71aa58f8204cb7f55bd37edba5c7f",
+      "url": "https://www.semanticscholar.org/paper/13cd148d09e71aa58f8204cb7f55bd37edba5c7f",
+      "title": "David vs. Goliath? Smaller European Exporting firms facing Asian competition on global markets",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/SJPE.12109?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/SJPE.12109, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "90703565",
+          "name": "F. Abraham"
+        },
+        {
+          "authorId": "118585331",
+          "name": "J. Hove"
+        },
+        {
+          "authorId": "94201365",
+          "name": "Z. Studnicka"
+        }
+      ]
+    },
+    {
+      "paperId": "bc1a0e4f00410fa5076b238d32ca0b9e265b174a",
+      "url": "https://www.semanticscholar.org/paper/bc1a0e4f00410fa5076b238d32ca0b9e265b174a",
+      "title": "David vs. Goliath: Startups versus Established Firms and the role of Supplier-Initiated Referrals",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5465/AMBPP.2016.16598ABSTRACT?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5465/AMBPP.2016.16598ABSTRACT, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "114281318",
+          "name": "Mahima Hada"
+        },
+        {
+          "authorId": "114531874",
+          "name": "Rajeev J. Sawant"
+        }
+      ]
+    },
+    {
+      "paperId": "fa1b732680736185a14d6b901b4f4082f9cf5d50",
+      "url": "https://www.semanticscholar.org/paper/fa1b732680736185a14d6b901b4f4082f9cf5d50",
+      "title": "David vs. Goliath: The Macedonian Position(s) in the Socalled “Name Dispute” with Greece",
+      "year": 2010,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.degruyter.com/document/doi/10.1515/soeu-2010-580310/pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1515/soeu-2010-580310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/soeu-2010-580310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "115000444",
+          "name": "B. Vankovska"
+        }
+      ]
+    },
+    {
+      "paperId": "6bbfc17f2583c0472bc92362e21f62f18cad7fc3",
+      "url": "https://www.semanticscholar.org/paper/6bbfc17f2583c0472bc92362e21f62f18cad7fc3",
+      "title": "Small RNA and Cancer: David vs. Goliath",
+      "year": 2014,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Biology"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "RNA interference is an epigenetic mechanism involved in regulation of gene expression and relies on small non-coding RNAs: endogenous miRNA and endogenous miRNAs."
+      },
+      "authors": [
+        {
+          "authorId": "32036531",
+          "name": "L. Hiršl"
+        },
+        {
+          "authorId": "3610792",
+          "name": "N. Sinčić"
+        },
+        {
+          "authorId": "92904666",
+          "name": "M. Vlahović"
+        },
+        {
+          "authorId": "21892564",
+          "name": "F. B. Jakuš"
+        }
+      ]
+    },
+    {
+      "paperId": "0a559ac0e1a9c69ec19ec70b48d5c856a6da7485",
+      "url": "https://www.semanticscholar.org/paper/0a559ac0e1a9c69ec19ec70b48d5c856a6da7485",
+      "title": "David vs Goliath: Two Competing US Trials of 3,4-Diaminopyridine (3,4-DAP) in Lambert-Eaton Myasthenic Syndrome (LEMS) (P4.271)",
+      "year": 2014,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1212/wnl.82.10_supplement.p4.271?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1212/wnl.82.10_supplement.p4.271, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Physicians should be aware of, and inform their patients about the potential financial consequences of participating in these clinical trials of 3,4-DAP, and become aware of potential costs to the health care system."
+      },
+      "authors": [
+        {
+          "authorId": "143902985",
+          "name": "D. Sanders"
+        }
+      ]
+    },
+    {
+      "paperId": "7ad9bfa011c2f2af78a95499876edb0dc8040ac6",
+      "url": "https://www.semanticscholar.org/paper/7ad9bfa011c2f2af78a95499876edb0dc8040ac6",
+      "title": "Comparative analysis of present marketing strategy: David vs. Goliath in confectionery industry",
+      "year": 2012,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://core.ac.uk/download/pdf/35337178.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Business"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "98508992",
+          "name": "Tamara Jovanov"
+        }
+      ]
+    },
+    {
+      "paperId": "ccd8b86cfbebd073dfb5920b484d6eb5f62c9379",
+      "url": "https://www.semanticscholar.org/paper/ccd8b86cfbebd073dfb5920b484d6eb5f62c9379",
+      "title": "David vs. Goliath: pitfalls and prospects in abundance analyses of dwarf vs. giant stars",
+      "year": 2010,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.22323/1.100.0007",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1010.2515, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Physics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "10668281",
+          "name": "A. Korn"
+        }
+      ]
+    },
+    {
+      "paperId": "fca55ec1a3c87d76bf53bbd5f3fa546d6936bfd4",
+      "url": "https://www.semanticscholar.org/paper/fca55ec1a3c87d76bf53bbd5f3fa546d6936bfd4",
+      "title": "Sulfasalazine vs. steroids in Crohn's disease: David vs. Goliath?",
+      "year": 1991,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/0016-5085(91)90746-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/0016-5085(91)90746-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "52613866",
+          "name": "S. Hanauer"
+        }
+      ]
+    },
+    {
+      "paperId": "aaafcf6fce1b86a38b19c6565ea363b5497b24df",
+      "url": "https://www.semanticscholar.org/paper/aaafcf6fce1b86a38b19c6565ea363b5497b24df",
+      "title": "Angiotensin II antagonists are superior to ACE inhibitors; David vs. Goliath",
+      "year": 2000,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1388-9842(00)00083-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1388-9842(00)00083-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "Large data bases confirm that A II antagonists are substantially better tolerated than ACE inhibitors in heart failure with a side-effect profile comparable to placebo."
+      },
+      "authors": [
+        {
+          "authorId": "6776822",
+          "name": "K. Dickstein"
+        }
+      ]
+    },
+    {
+      "paperId": "dd92c83dbb2303484cfa30c66e12cbfc51c1248c",
+      "url": "https://www.semanticscholar.org/paper/dd92c83dbb2303484cfa30c66e12cbfc51c1248c",
+      "title": "David vs Goliath: the bifurcation of public policy concerning organic agriculture and biotechnology in Queensland",
+      "year": 2001,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at http://ageconsearch.umn.edu/record/125589/files/Donaghy.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Business", "Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "37955988",
+          "name": "P. Donaghy"
+        },
+        {
+          "authorId": "144555702",
+          "name": "J. Rolfe"
+        }
+      ]
+    },
+    {
+      "paperId": "17a742554d98fed419d972871a1f1a9d3006a844",
+      "url": "https://www.semanticscholar.org/paper/17a742554d98fed419d972871a1f1a9d3006a844",
+      "title": "‘David vs Goliath’: Australian Jewish Perceptions of Media Bias in Reporting the Israeli-Palestinian Conflict",
+      "year": 2003,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1329878X0310900115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1329878X0310900115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145715200",
+          "name": "B. Bloch"
+        }
+      ]
+    },
+    {
+      "paperId": "67a9633eff2997475408977cb7a7222d52d76e2d",
+      "url": "https://www.semanticscholar.org/paper/67a9633eff2997475408977cb7a7222d52d76e2d",
+      "title": "Phosphonic acid-functionalized polymers vs. phosphonated small molecules: David vs. Goliath?",
+      "year": 2013,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Chemistry"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "47873529",
+          "name": "M. Klapper"
+        },
+        {
+          "authorId": "14683797",
+          "name": "J. Wegener"
+        },
+        {
+          "authorId": "1397714161",
+          "name": "L. Jiménez-García"
+        },
+        {
+          "authorId": "12664939",
+          "name": "A. Kaltbeitzel"
+        },
+        {
+          "authorId": "145818908",
+          "name": "K. Müllen"
+        }
+      ]
+    },
+    {
+      "paperId": "82f0857f44c1902f9ac278b1c13f2f1bda6a2d89",
+      "url": "https://www.semanticscholar.org/paper/82f0857f44c1902f9ac278b1c13f2f1bda6a2d89",
+      "title": "David vs. Goliath in the Caribbean",
+      "year": 2013,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1089/GLRE.2013.1733?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/GLRE.2013.1733, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "50356954",
+          "name": "Sue Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "03bdff4556205123821f8219c8cf98dafcd6d16f",
+      "url": "https://www.semanticscholar.org/paper/03bdff4556205123821f8219c8cf98dafcd6d16f",
+      "title": "The actor of power in the conditions of modern warfare: David's strategy vs Goliath's strategy",
+      "year": 2021,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.25136/2409-7144.2021.6.33184",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.25136/2409-7144.2021.6.33184?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25136/2409-7144.2021.6.33184, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2058496690",
+          "name": "Балаклеец Наталья Александровна"
+        }
+      ]
+    },
+    {
+      "paperId": "d435e335d2ff79f498e637b918b8a4c1a81a9c2b",
+      "url": "https://www.semanticscholar.org/paper/d435e335d2ff79f498e637b918b8a4c1a81a9c2b",
+      "title": "Dynamika Prieniku Anglicizmov Do Taliančiny: Boj Dávida S Goliášom? / The Dynamics of Penetration of Anglicisms into Italian: David vs. Goliath Fight?",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2478/v10113-011-0019-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2478/v10113-011-0019-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Philosophy"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2104902617",
+          "name": "Roman Sehnal"
+        }
+      ]
+    },
+    {
+      "paperId": "d79da37a93d35b0ede5645dde176e8b4bd63352c",
+      "url": "https://www.semanticscholar.org/paper/d79da37a93d35b0ede5645dde176e8b4bd63352c",
+      "title": "David vs. Goliath: Resisting the Denial of the Nanking Massacre",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1017/s1557466012016725",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/s1557466012016725?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/s1557466012016725, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2350623661",
+          "name": "Joseph Essertier"
+        },
+        {
+          "authorId": "2359705157",
+          "name": "Ono Masami"
+        }
+      ]
+    },
+    {
+      "paperId": "eb8c81f95e812f6ac3b13edbaf9e9a9edc53df9b",
+      "url": "https://www.semanticscholar.org/paper/eb8c81f95e812f6ac3b13edbaf9e9a9edc53df9b",
+      "title": "A Look Back: David vs. Goliath at UC Irvine",
+      "year": 1992,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17953/AMER.18.1.E071QMK47122U151?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17953/AMER.18.1.E071QMK47122U151, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "143905194",
+          "name": "Daniel C W Tsang"
+        }
+      ]
+    },
+    {
+      "paperId": "5f0adb74c3de93e72057b97e810a78c85bf53e34",
+      "url": "https://www.semanticscholar.org/paper/5f0adb74c3de93e72057b97e810a78c85bf53e34",
+      "title": "Creativos independientes: David vs Goliath",
+      "year": 2010,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "103574788",
+          "name": "José G. Pertierra"
+        }
+      ]
+    },
+    {
+      "paperId": "2c062e1bf500e0f65468d2f013c239db6a4e78ce",
+      "url": "https://www.semanticscholar.org/paper/2c062e1bf500e0f65468d2f013c239db6a4e78ce",
+      "title": "Spring 2010: David vs. Goliath",
+      "year": 2010,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://digitalcommons.winthrop.edu/cgi/viewcontent.cgi?article=1038&context=dacusfocus&httpsredir=1&referer=, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Art"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "66453653",
+          "name": "Dacus Library"
+        }
+      ]
+    },
+    {
+      "paperId": "2d62429cdbe84a5231bc176696e4b21987dfe229",
+      "url": "https://www.semanticscholar.org/paper/2d62429cdbe84a5231bc176696e4b21987dfe229",
+      "title": "David vs. Goliath: Offense-Defense Theory and Asymmetric Wars",
+      "year": 2009,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1292&context=honorstheses, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "123509344",
+          "name": "Alexander Ely"
+        }
+      ]
+    },
+    {
+      "paperId": "b121ca638c2ef3c3b3452b486770daaa2b5e7d55",
+      "url": "https://www.semanticscholar.org/paper/b121ca638c2ef3c3b3452b486770daaa2b5e7d55",
+      "title": "David vs. Goliath: M&A of HaiTai Confectionery and Foods Co. by Crown Confectionery Co.",
+      "year": 2010,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "115083964",
+          "name": "H. Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "224bfceca0b165c8358e7a35526d4d51effcf5ba",
+      "url": "https://www.semanticscholar.org/paper/224bfceca0b165c8358e7a35526d4d51effcf5ba",
+      "title": "David vs. Goliath.",
+      "year": 1977,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "67089143",
+          "name": "Merlino Af"
+        }
+      ]
+    },
+    {
+      "paperId": "eeaf60ac365ef0a6a1d074e45ee374b975bbdbb8",
+      "url": "https://www.semanticscholar.org/paper/eeaf60ac365ef0a6a1d074e45ee374b975bbdbb8",
+      "title": "David vs. Goliath or mice vs. men? (panel session): production studio size in the entertainment industry",
+      "year": 1995,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1145/218380.218506",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/218380.218506?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/218380.218506, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Computer Science"],
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A novel test fixture for simulating aerodynamic loading on an airfoil is described and a compliant stabilization structure configured to provide lateral stability to the bellows arrays under pressure conditions is described."
+      },
+      "authors": [
+        {
+          "authorId": "1405629516",
+          "name": "Pauline Y. Ts'o"
+        },
+        {
+          "authorId": "2059952602",
+          "name": "Theresa Ellis"
+        },
+        {
+          "authorId": "47076052",
+          "name": "Ralph Guggenheim"
+        },
+        {
+          "authorId": "2054015634",
+          "name": "Brad Lewis"
+        },
+        {
+          "authorId": "145215059",
+          "name": "R. Thornton"
+        }
+      ]
+    },
+    {
+      "paperId": "c8d5e6d7b0c017a52e5585ce2f6f77379731fc5d",
+      "url": "https://www.semanticscholar.org/paper/c8d5e6d7b0c017a52e5585ce2f6f77379731fc5d",
+      "title": "David vs. Goliath.",
+      "year": 1977,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": []
+    },
+    {
+      "paperId": "f34a805cf8f48cdffbd3a653db2c2be17411f80f",
+      "url": "https://www.semanticscholar.org/paper/f34a805cf8f48cdffbd3a653db2c2be17411f80f",
+      "title": "David vs. Goliath: Physicians Take on Managed Care",
+      "year": 2003,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1097/00132981-200301000-00001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00132981-200301000-00001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "4849598",
+          "name": "R. Sorelle"
+        }
+      ]
+    },
+    {
+      "paperId": "ca50b2acdf84f8a61d5c7b5842bd02a12757bd02",
+      "url": "https://www.semanticscholar.org/paper/ca50b2acdf84f8a61d5c7b5842bd02a12757bd02",
+      "title": "Beyond the David vs. Goliath: Exploring the Identity of Alternative Media",
+      "year": 2005,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Sociology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2069341741",
+          "name": "김은규"
+        }
+      ]
+    },
+    {
+      "paperId": "431c1f3baa8bb1941d1528dbfd6dbfd0d8ebaeb2",
+      "url": "https://www.semanticscholar.org/paper/431c1f3baa8bb1941d1528dbfd6dbfd0d8ebaeb2",
+      "title": "David vs. Goliath in perspective.",
+      "year": 1978,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Art"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "67089143",
+          "name": "Merlino Af"
+        }
+      ]
+    },
+    {
+      "paperId": "842d2cd8840cb959a07880f8fe08b6e923ae68a5",
+      "url": "https://www.semanticscholar.org/paper/842d2cd8840cb959a07880f8fe08b6e923ae68a5",
+      "title": "David vs. Goliath in Growth: On the Historically Changing Impact from Scale ∗",
+      "year": 2005,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at http://web.econ.ku.dk/dalgaard/Work/DvGv5.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Geography"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "80336430",
+          "name": "Carl-Johan Dalgaard"
+        },
+        {
+          "authorId": "2815803",
+          "name": "M. K. Jensen"
+        }
+      ]
+    },
+    {
+      "paperId": "8d9a35b94d8ab42cc862891bbb8d794cf802f45b",
+      "url": "https://www.semanticscholar.org/paper/8d9a35b94d8ab42cc862891bbb8d794cf802f45b",
+      "title": "ANOTHER DAVID VS. GOLIATH",
+      "year": 1999,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "69558508",
+          "name": "F. Wilner"
+        }
+      ]
+    },
+    {
+      "paperId": "4b7a84f21978c5d7e87ee470b476875e828611a9",
+      "url": "https://www.semanticscholar.org/paper/4b7a84f21978c5d7e87ee470b476875e828611a9",
+      "title": "Sulfasalazine vs. steroids in Crohn's disease: David vs. Goliath?",
+      "year": 1992,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/0016-5085(92)91822-l",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5555/URI:PII:001650859291822L?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5555/URI:PII:001650859291822L, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "46599670",
+          "name": "M. Rijk"
+        }
+      ]
+    },
+    {
+      "paperId": "b248cb1de8d4f4891139cc33f3d17152ecac9afc",
+      "url": "https://www.semanticscholar.org/paper/b248cb1de8d4f4891139cc33f3d17152ecac9afc",
+      "title": "DAVID vs Goliath: picotamide vs aspirin in diabetes + PAD",
+      "year": 2004,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2165/00128413-200414660-00024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2165/00128413-200414660-00024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": []
+    },
+    {
+      "paperId": "e62d496a3c1114a2710a97e077df9707b5db48af",
+      "url": "https://www.semanticscholar.org/paper/e62d496a3c1114a2710a97e077df9707b5db48af",
+      "title": "Cover Story: David vs. Goliath.",
+      "year": 2001,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["History"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "115619846",
+          "name": "J. Kumin"
+        }
+      ]
+    },
+    {
+      "paperId": "baba35d230fe133cddc051a18408a1322f314dd4",
+      "url": "https://www.semanticscholar.org/paper/baba35d230fe133cddc051a18408a1322f314dd4",
+      "title": "David vs. Goliath in perspective.",
+      "year": 1978,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Medicine"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2073137102",
+          "name": "A. Merlino"
+        }
+      ]
+    },
+    {
+      "paperId": "c99d60eab8ff58a340e0f23753dbb57e05bbc13d",
+      "url": "https://www.semanticscholar.org/paper/c99d60eab8ff58a340e0f23753dbb57e05bbc13d",
+      "title": "THAILAND'S DOMESTIC MARKET -- DAVID VS. GOLIATH",
+      "year": 1998,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "69357192",
+          "name": "Olivier Bonnassies"
+        }
+      ]
+    },
+    {
+      "paperId": "cd1515e2dc602b3a90c10ea7d20aa6324c633c55",
+      "url": "https://www.semanticscholar.org/paper/cd1515e2dc602b3a90c10ea7d20aa6324c633c55",
+      "title": "Modeling Natural Gas Reservoirs: David Vs. Goliath",
+      "year": 1980,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/9395-MS?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/9395-MS, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Environmental Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "20715243",
+          "name": "R. S. Collier"
+        },
+        {
+          "authorId": "52006847",
+          "name": "E. A. Monash"
+        },
+        {
+          "authorId": "3268939",
+          "name": "P. F. Hultquist"
+        }
+      ]
+    },
+    {
+      "paperId": "a550d3023793086fa7b47f240adf157fccc9ad22",
+      "url": "https://www.semanticscholar.org/paper/a550d3023793086fa7b47f240adf157fccc9ad22",
+      "title": "David vs. Goliath",
+      "year": 1986,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2307/3970414?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2307/3970414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Biology"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "143814637",
+          "name": "Berthold K. P. Horn"
+        }
+      ]
+    },
+    {
+      "paperId": "a5c9e4a28b2718a8cb9476d9d7259f59f73c752a",
+      "url": "https://www.semanticscholar.org/paper/a5c9e4a28b2718a8cb9476d9d7259f59f73c752a",
+      "title": "David vs. Goliath or mice vs. men? production studio size in the entertainment industry (panel session).",
+      "year": 1995,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Art"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1405629516",
+          "name": "Pauline Y. Ts'o"
+        },
+        {
+          "authorId": "2059952602",
+          "name": "Theresa Ellis"
+        },
+        {
+          "authorId": "47076052",
+          "name": "Ralph Guggenheim"
+        },
+        {
+          "authorId": "2054015634",
+          "name": "Brad Lewis"
+        },
+        {
+          "authorId": "145215059",
+          "name": "R. Thornton"
+        }
+      ]
+    },
+    {
+      "paperId": "9f6075da34090ff0a2dc6d59b11312ab3f0949a2",
+      "url": "https://www.semanticscholar.org/paper/9f6075da34090ff0a2dc6d59b11312ab3f0949a2",
+      "title": "David vs Goliath in Fiji",
+      "year": 2001,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1037969X0102600311?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1037969X0102600311, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2111171470",
+          "name": "George Williams"
+        }
+      ]
+    },
+    {
+      "paperId": "67258131e22532481473be70e7719a696f95a691",
+      "url": "https://www.semanticscholar.org/paper/67258131e22532481473be70e7719a696f95a691",
+      "title": "Universal Money Instrument Decentralised Finance VS Ethereum Decentralised Finance: The quest of Goliath and David to conquer Africa.",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3958066?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3958066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "2138732167",
+          "name": "Benjamin Masama"
+        }
+      ]
+    },
+    {
+      "paperId": "f5a0bd01c22050b578366a196b5251fa8afc1750",
+      "url": "https://www.semanticscholar.org/paper/f5a0bd01c22050b578366a196b5251fa8afc1750",
+      "title": "David Frost vs. Goliath: history and entertainment in Frost/Nixon",
+      "year": 2011,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://researchbank.swinburne.edu.au/file/bf1ab33f-7fd3-44a6-b2ce-d1dd84f8863a/1/PDF%20(Published%20version).pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["History"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "1405499073",
+          "name": "A. Heller-Nicholas"
+        }
+      ]
+    },
+    {
+      "paperId": "4cfdbf3bd7eacaff610e28f00671de0844e5e708",
+      "url": "https://www.semanticscholar.org/paper/4cfdbf3bd7eacaff610e28f00671de0844e5e708",
+      "title": "David vs the taxation goliath",
+      "year": 2003,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "70073746",
+          "name": "J. Arbouw"
+        }
+      ]
+    },
+    {
+      "paperId": "fcd268763fb985d65f748185f661388c484aea1f",
+      "url": "https://www.semanticscholar.org/paper/fcd268763fb985d65f748185f661388c484aea1f",
+      "title": "Walmart vs. Festival Foods - David and Goliath?",
+      "year": 2012,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/10835547.2012.12091705?needAccess=true",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10835547.2012.12091705?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10835547.2012.12091705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Economics"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "152431018",
+          "name": "David P. Brennan"
+        },
+        {
+          "authorId": "114838017",
+          "name": "Lorman L. Lundsten"
+        }
+      ]
+    },
+    {
+      "paperId": "8f70892ffcbaa270bae7967dbdebc59bb9a1c76d",
+      "url": "https://www.semanticscholar.org/paper/8f70892ffcbaa270bae7967dbdebc59bb9a1c76d",
+      "title": "Goliath vs David: A Short History of the Fight Against Organised Peace Work",
+      "year": 2011,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7238/JOC.V2I2.1303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7238/JOC.V2I2.1303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "145070513",
+          "name": "K. Clements"
+        }
+      ]
+    },
+    {
+      "paperId": "9a9b0c00e59a08658791b1dd28f04e72949f2e49",
+      "url": "https://www.semanticscholar.org/paper/9a9b0c00e59a08658791b1dd28f04e72949f2e49",
+      "title": "In Search of a Slingshot: Climate Action’s David and the Goliath of Deregulated Capitalism",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1353/SAIS.2015.0006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1353/SAIS.2015.0006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": ["Political Science"],
+      "tldr": null,
+      "authors": [
+        {
+          "authorId": "48653647",
+          "name": "Emily J Walz"
+        }
+      ]
+    }
+  ]
+}
