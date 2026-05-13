@@ -1,0 +1,38 @@
+{
+  "name": "obsidian-literature-search",
+  "version": "0.1.0",
+  "main": "main.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite build --mode development --watch",
+    "build": "vite build --mode production",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "format": "biome format --write ./src",
+    "lint": "biome lint --write --unsafe ./src"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@sveltejs/vite-plugin-svelte": "^5.1.1",
+    "@tsconfig/svelte": "^5.0.8",
+    "@types/node": "^25.6.0",
+    "autoprefixer": "^10.4.27",
+    "builtin-modules": "^5.0.0",
+    "postcss": "^8.5.8",
+    "svelte-check": "^4.4.5",
+    "tailwindcss": "^3.4.19",
+    "tslib": "^2.8.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@tanstack/svelte-query": "^6.1.26",
+    "bits-ui": "^2.18.1",
+    "dexie": "^4.4.2",
+    "fuse.js": "^7.3.0",
+    "obsidian": "^1.12.3",
+    "runed": "^0.37.1",
+    "svelte": "^5.53.7",
+    "zod": "^4.4.2"
+  }
+}
