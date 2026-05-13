@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-literature-search",
+  "name": "Literature Search",
+  "description": "Search and manage academic literature from within Obsidian.",
+  "author": "",
+  "authorUrl": "",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "isDesktopOnly": true
+}
